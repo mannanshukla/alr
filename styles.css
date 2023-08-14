@@ -1,0 +1,69 @@
+.wordmark{
+    margin-left:10px;
+    color: #FBFAF5;
+}
+
+.content-text{
+    margin:2em;
+}
+
+.usvsthem{
+    width:40em;
+}
+
+.prod-title{
+    padding-top: 1em;
+}
+
+.prod-container{
+    background-color: #FBFAF5;
+}
+.words{
+    font-size:6em;
+}
+
+#third{
+    color:#fff;
+}
+
+.becker{
+    max-height: 15vh;
+}
+
+.socials{
+    margin-right:10px;
+}
+
+.csel-item{
+    height: 81vh;
+}
+.csel-img{
+    height: 100%;
+    object-fit:cover;
+}
+
+img{
+	max-width: 100%;
+}
+.gallery{
+	background-color: #FBFAF5;
+	padding: 80px 0;
+}
+.gallery img{
+	background-color: #ffffff;
+	padding: 15px;
+	width: 100%;
+	box-shadow: 0 0 15px rgba(0,0,0,0.3);
+	cursor: pointer;
+}
+#gallery-modal .modal-img{
+	width: 100%;
+}
+
+.portraits{
+    width: 10px;
+}
+
+.carousel-caption{
+   size: 10px; 
+}
