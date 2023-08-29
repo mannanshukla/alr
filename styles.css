@@ -19,7 +19,7 @@
     background-color: #FBFAF5;
 }
 .words{
-    font-size:6em;
+    font-size:5vw;
 }
 
 #third{
@@ -27,7 +27,7 @@
 }
 
 .becker{
-    max-height: 15vh;
+    height: 20vh;
 }
 
 .socials{
@@ -66,4 +66,10 @@ img{
 
 .carousel-caption{
    size: 10px; 
+}
+
+.kekre{
+    font-size: 2vh;
+
+
 }
